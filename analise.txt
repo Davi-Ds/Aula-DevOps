@@ -1,0 +1,3 @@
+O sistema deve fazer autenticação de usuário.
+O sistema deve checar os dados do motorista(CNH,Documentos do carro em dia)
+O sistema deverá localizar qual o caro disponível mais próximo do passageiro
